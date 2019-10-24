@@ -1,3 +1,4 @@
 # DBP3-markdown\
   We are group eight doing The GoodYear Tire and Rubber Company. Goodyear is a very large company across the entire world, not just the United States. With this being said we will not include every single location or department they have we will stay focused on a few within each area. To start we have eight different tables with attributes in each table. Our tables include Projects, Employees, Treasury, Departments, Locations, Projects, Benefits, and Customers
   We chose these as our main tables because they represent the business best as a whole. We covered our employees, customers, products and them we have attributes of each. In the project table we chose attributes of projectid, startdate, completiondate, employeeid, and customerid. For the Employee table we have employeeid, email, phone, and hiredate as the attributes. In treasury we have department, profits, employeeid, salary, and sales. 
+  
